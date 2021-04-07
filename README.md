@@ -1,5 +1,7 @@
 👋 Hi, I’m @mcooper-gb
+
 👀 I’m interested in coding little bit of python to make life easier.
+
 🌱 I’m currently learning python, jquery, C#
 
 <!---
